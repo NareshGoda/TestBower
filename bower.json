@@ -1,0 +1,17 @@
+{
+  "name": "testbower",
+  "authors": [
+    "Nareshgoda"
+  ],
+  "description": "bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
